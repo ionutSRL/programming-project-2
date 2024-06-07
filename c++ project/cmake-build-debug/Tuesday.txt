@@ -1,0 +1,6 @@
+Movie: Dune2, Time: 11:00 AM
+Movie: The Godfather, Time: 02:00 PM
+Movie: The Lord of the Rings: The Return of the King, Time: 01:00 PM
+Movie: Saving Private Ryan, Time: 06:00 PM
+Movie: Jurassic Park, Time: 11:00 AM
+Movie: The Matrix, Time: 02:00 PM

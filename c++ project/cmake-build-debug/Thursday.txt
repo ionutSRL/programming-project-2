@@ -1,0 +1,10 @@
+Movie: The Shawshank Redemption, Time: 03:00 PM
+Movie: Pulp Fiction, Time: 05:00 PM
+Movie: The Lord of the Rings: The Return of the King, Time: 03:00 PM
+Movie: Se7en, Time: 06:00 PM
+Movie: Forrest Gump, Time: 07:00 PM
+Movie: Inception, Time: 03:00 PM
+Movie: The Matrix, Time: 04:00 PM
+Movie: Titanic, Time: 08:00 PM
+Movie: The Lion King, Time: 12:00 PM
+Movie: Star Wars: Episode V, Time: 02:00 PM

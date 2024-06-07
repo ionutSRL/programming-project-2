@@ -1,0 +1,6 @@
+Movie: Dune2, Time: 01:00 PM
+Movie: The Dark Knight, Time: 06:00 PM
+Movie: Fight Club, Time: 08:00 PM
+Movie: The Notebook, Time: 05:00 PM
+Movie: Braveheart, Time: 09:00 PM
+Movie: The Avengers, Time: 03:00 PM

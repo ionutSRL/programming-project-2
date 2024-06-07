@@ -1,0 +1,6 @@
+Movie: Dune, Time: 12:00 PM
+Movie: The Shawshank Redemption, Time: 01:00 PM
+Movie: Schindler's List, Time: 03:00 PM
+Movie: Gladiator, Time: 05:00 PM
+Movie: Inception, Time: 01:00 PM
+Movie: The Lion King, Time: 10:00 AM

@@ -1,0 +1,5 @@
+Movie: Dune
+Day: Monday
+Time: 12:00 PM
+Seats: 
+Payment Details: 

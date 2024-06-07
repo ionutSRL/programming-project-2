@@ -1,0 +1,10 @@
+Movie: Dune, Time: 02:00 PM
+Movie: The Notebook, Time: 03:00 PM
+Movie: The Dark Knight, Time: 04:00 PM
+Movie: Fight Club, Time: 06:00 PM
+Movie: Schindler's List, Time: 05:00 PM
+Movie: Forrest Gump, Time: 07:00 PM
+Movie: The Silence of the Lambs, Time: 03:00 PM
+Movie: Braveheart, Time: 07:00 PM
+Movie: The Lion King, Time: 12:00 PM
+Movie: The Avengers, Time: 01:00 PM

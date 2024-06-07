@@ -1,0 +1,41 @@
+Monday:
+- 10:00 AM: Movie Title 1
+- 01:00 PM: Movie Title 2
+- 04:00 PM: Movie Title 3
+- 07:00 PM: Movie Title 4
+
+Tuesday:
+- 10:00 AM: Movie Title 5
+- 01:00 PM: Movie Title 6
+- 04:00 PM: Movie Title 7
+- 07:00 PM: Movie Title 8
+
+Wednesday:
+- 10:00 AM: Movie Title 9
+- 01:00 PM: Movie Title 10
+- 04:00 PM: Movie Title 11
+- 07:00 PM: Movie Title 12
+
+Thursday:
+- 10:00 AM: Movie Title 13
+- 01:00 PM: Movie Title 14
+- 04:00 PM: Movie Title 15
+- 07:00 PM: Movie Title 16
+
+Friday:
+- 10:00 AM: Movie Title 17
+- 01:00 PM: Movie Title 18
+- 04:00 PM: Movie Title 19
+- 07:00 PM: Movie Title 20
+
+Saturday:
+- 10:00 AM: Movie Title 21
+- 01:00 PM: Movie Title 22
+- 04:00 PM: Movie Title 23
+- 07:00 PM: Movie Title 24
+
+Sunday:
+- 10:00 AM: Movie Title 25
+- 01:00 PM: Movie Title 26
+- 04:00 PM: Movie Title 27
+- 07:00 PM: Movie Title 28

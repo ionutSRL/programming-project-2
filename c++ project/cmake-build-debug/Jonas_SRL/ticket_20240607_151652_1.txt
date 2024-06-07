@@ -1,0 +1,6 @@
+---- TICKET ----
+Movie: Dune
+Day: Monday
+Time: 12:00 PM
+Seat: (1,D)
+----------------

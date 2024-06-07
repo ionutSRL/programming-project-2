@@ -1,0 +1,7 @@
+---- TICKET ----
+Movie: Dune
+Day: Monday
+Time: 12:00 PM
+Seat: (1,Å)
+Payment Details: 12345678901234
+----------------

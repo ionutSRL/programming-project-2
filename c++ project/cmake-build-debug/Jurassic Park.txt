@@ -1,0 +1,12 @@
+Title: Jurassic Park
+Duration: 127 minutes
+Synopsis: During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
+Lead Actors: Sam Neill, Laura Dern, Jeff Goldblum
+Genres: Adventure, Sci-Fi, Thriller
+Director: Steven Spielberg
+Year: 1993
+Showtimes:
+Monday - 04:00 PM
+Wednesday - 07:00 PM
+Friday - 10:00 PM
+Sunday - 04:00 PM
